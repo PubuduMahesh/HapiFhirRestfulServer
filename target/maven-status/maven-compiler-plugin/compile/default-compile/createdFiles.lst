@@ -1,0 +1,3 @@
+com\codenerdz\hapi\fhir\providers\PatientResourceProvider.class
+com\codenerdz\hapi\fhir\servlet\Servlet.class
+com\codenerdz\hapi\fhir\configuration\ServerConfiguration.class
